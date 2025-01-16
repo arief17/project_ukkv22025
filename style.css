@@ -1,9 +1,15 @@
 body{
 	font-family: sans-serif;
-	background: #ebf9fb;
+	background: #23b2c5;
 }
  
 h1{
+	text-align: center;
+	/*ketebalan font*/
+	font-weight: 300;
+}
+
+h3{
 	text-align: center;
 	/*ketebalan font*/
 	font-weight: 300;
@@ -38,12 +44,12 @@ label{
 }
  
 .tombol_login{
-	background: #2aa7e2;
+	background: #27e221;
 	color: white;
 	font-size: 11pt;
 	width: 100%;
 	border: none;
-	border-radius: 3px;
+	border-radius: 30px;
 	padding: 10px 20px;
 }
  

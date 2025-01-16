@@ -17,7 +17,7 @@
 	?>
  
 	<div class="kotak_login">
-    <h1>Login Aplikasi Kasir<br/>SMKN 1 Kragilan</h1>
+    <h3>Login Aplikasi Kasir<br/>SMKN 1 Kragilan</h3>
 		<p class="tulisan_login">Silahkan login</p>
  
 		<form action="cek_login.php" method="post">

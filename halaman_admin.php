@@ -13,9 +13,9 @@
 	}
  
 	?>
-	<h1>Halaman Admin</h1>
+	<h1>Halaman Administrator</h1>
 
-    <a href="#">Registrasi</a>
+    <a href="registrasi.php">Registrasi</a>
  
 	<p>Halo <b><?php echo $_SESSION['username']; ?></b> Anda telah login sebagai <b><?php echo $_SESSION['level']; ?></b>.</p>
 	<a href="logout.php">LOGOUT</a>
